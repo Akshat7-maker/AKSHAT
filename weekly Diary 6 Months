@@ -1,91 +1,61 @@
 // Week 1 (15th - 21st July 2024):
 Objective: Understanding the basics of web development.
-
 Learned HTML, CSS, and JavaScript fundamentals.
-
 Built a simple static webpage to practice structure and styling.
-
 Explored how JavaScript can add interactivity to web pages.
 
 //Week 2 (22nd - 28th July 2024):
-
 Objective: Deep dive into JavaScript.
-
 Studied ES6+ features like arrow functions, destructuring, and promises.
-
 Worked on DOM manipulation and event handling.
-
 Created a small to-do list project using vanilla JavaScript.
 
 //Week 3 (29th July - 4th August 2024):
 Objective: Introduction to React.js.
-
 Learned React basics: components, JSX, and props.
-
 Built a simple counter application using React.
-
 Understood state management with the useState hook.
-
 
 //Week 4 (5th - 11th August 2024):
 Objective: React.js advanced concepts.
-
 Explored useEffect, useRef, and useContext hooks.
-
 Learned about component lifecycle and conditional rendering.
-
 Built a weather app using a third-party API.
 
 //Week 5 (12th - 18th August 2024):
 Objective: React Router and form handling.
-
 Implemented routing using React Router DOM.
-
 Created a multi-page application.
-
 Learned about controlled and uncontrolled components.
 
 //Week 6 (19th - 25th August 2024):
 Objective: State management with Redux.
-
 Understood Redux basics: store, actions, reducers, and middleware.
-
 Integrated Redux into a React app.
-
 Built a shopping cart feature using Redux.
 
 //Week 7 (26th August - 1st September 2024):
 Objective: Introduction to Node.js.
-
 Installed Node.js and learned about its architecture and event-driven nature.
-
 Explored core modules like fs, path, and http.
-
 Built a basic server to handle HTTP requests and responses.
+
 
 //Week 8 (2nd - 8th September 2024):
 Objective: Learning Express.js.
-
 Understood the basics of routing and middleware in Express.
-
 Built a RESTful API with endpoints for a simple blog application.
-
 Integrated Postman for API testing.
 
 //Week 9 (9th - 15th September 2024):
 Objective: Introduction to MongoDB.
-
 Learned MongoDB basics: collections, documents, and CRUD operations.
-
 Set up a local MongoDB server and connected it with a Node.js app.
-
 Created a simple API to perform CRUD operations on a database.
 
 //Week 10 (16th - 22nd September 2024):
 Objective: Merging Express.js and MongoDB.
-
 Built a complete backend for a task management system.
-
 Implemented user authentication using JWT.
 
 //Week 11 (23rd - 29th September 2024):
@@ -94,30 +64,22 @@ Set up a full-stack application combining React, Express, MongoDB, and Node.js.
 
 // Week 12 (30th September - 6th October 2024):
 Built a blog application with CRUD functionality.
-
 Implemented user authentication and authorization.
 
 //Week 13 (7th - 13th October 2024):
 Objective: Advanced React concepts.
-
 Explored higher-order components, React context, and useReducer.
 
 //Week 14 (14th - 20th October 2024):
 Objective: Authentication and security.
-
 Learned about access tokens, and refresh tokens.
-
 Implemented secure password storage with bcrypt.
-
 Added role-based access control to the app.
 
 //Week 15 (21st - 27th October 2024):
 Objective: Performance optimization.
-
 Optimized React app using memoization (useMemo, useCallback).
-
 Implemented lazy loading and code splitting.
-
 Improved backend performance by indexing MongoDB collections.
 
 //Week 16 (28th October - 3rd November 2024):
