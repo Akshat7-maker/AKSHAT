@@ -1,0 +1,33 @@
+Week 1: Fundamentals of Web Development
+HTML Basics:
+Understanding the structure of web pages.
+Learning essential tags like <div>, <h1> to <h6>, <p>, <img>, <a>, and forms.
+Creating simple static web pages.
+CSS Introduction:
+Styling web pages using properties like colors, fonts, padding, margins, and borders.
+Exploring CSS selectors, classes, and IDs.
+
+Week 2: Introduction to Interactivity
+JavaScript Fundamentals:
+Learning variables, data types, operators, and functions.
+DOM manipulation for adding dynamic behavior to web pages.
+Event handling (e.g., onclick, onmouseover).
+Responsive Design Concepts:
+Understanding media queries for device compatibility.
+Implementing layouts for different screen sizes.
+
+Week 3: Frameworks and Tools
+Bootstrap CSS:
+Using the grid system for layout design.
+Implementing pre-designed components like buttons, modals, and navigation bars.
+Tailwind CSS:
+Learning utility-first styling.
+Creating responsive, modern UI elements using Tailwind classes.
+
+Week 4: Project Development
+Developing UI projects using Tailwind CSS to implement the skills learned:
+Designing a portfolio website.
+Creating a landing page for a fictional product.
+Adding interactivity using JavaScript.
+
+
